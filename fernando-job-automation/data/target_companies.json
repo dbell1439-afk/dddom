@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-07-02",
+    "purpose": "Priority employers and their known ATS/careers domains. Jobs from these sources get a legitimacy boost and are treated as higher-quality than generic job-board reposts.",
+    "usage": "Prefer applying through the employer's own careers page/ATS over a third-party repost of the same job."
+  },
+  "tier_1_local_health_systems": [
+    { "name": "Tampa General Hospital", "careers": "https://www.tgh.org/careers", "ats": "Workday", "notes": "Current employer. Internal transfer path — apply internally first for lab/research/lead roles." },
+    { "name": "Moffitt Cancer Center", "careers": "https://moffitt.org/careers", "ats": "Workday", "notes": "Top target: cytology, pathology, clinical research, specimen processing. Strong fit for cytology background." },
+    { "name": "BayCare Health System", "careers": "https://baycare.org/careers", "ats": "Workday", "notes": "Large Tampa Bay footprint; lab, phlebotomy, specimen processing." },
+    { "name": "AdventHealth", "careers": "https://www.adventhealth.com/careers", "ats": "Workday", "notes": "Central FL + Tampa; lab and phlebotomy leadership." },
+    { "name": "HCA Healthcare (West Florida)", "careers": "https://careers.hcahealthcare.com", "ats": "iCIMS", "notes": "Many Tampa/Brooksville/Spring Hill hospitals; lab and specimen roles." },
+    { "name": "Johns Hopkins All Children's", "careers": "https://www.hopkinsallchildrens.org/careers", "ats": "Taleo/Workday", "notes": "St. Petersburg; research and lab roles." },
+    { "name": "Lakeland Regional Health", "careers": "https://lakelandregional.org/careers", "ats": "iCIMS", "notes": "Commutable via Polk County; lab operations." },
+    { "name": "Orlando Health", "careers": "https://www.orlandohealth.com/careers", "ats": "Workday", "notes": "Orlando; hybrid/commutable research and lab." },
+    { "name": "Mayo Clinic Florida", "careers": "https://jobs.mayoclinic.org", "ats": "Workday", "notes": "Jacksonville-based; prioritize remote/hybrid clinical research and lab-data roles." }
+  ],
+  "tier_1_diagnostics_labs": [
+    { "name": "Quest Diagnostics", "careers": "https://careers.questdiagnostics.com", "ats": "Workday", "notes": "Specimen processing, accessioning, phlebotomy lead, lab supervisor." },
+    { "name": "Labcorp", "careers": "https://careers.labcorp.com", "ats": "Workday", "notes": "Specimen processing supervisor, phlebotomy, CRO arm (Labcorp Drug Development) for research roles." },
+    { "name": "OneBlood", "careers": "https://www.oneblood.org/careers", "ats": "iCIMS", "notes": "Donor center supervisor, mobile phlebotomy lead — strong fit for lead phlebotomy." },
+    { "name": "Florida Cancer Specialists", "careers": "https://flcancer.com/careers", "ats": "iCIMS", "notes": "Oncology; lab, research, and specimen roles align with cytology background." }
+  ],
+  "tier_1_universities": [
+    { "name": "USF Health / University of South Florida", "careers": "https://www.usf.edu/work-at-usf", "ats": "Careers@USF", "notes": "Research lab coordinator, clinical research coordinator, adjunct/instructor. WES-friendly." },
+    { "name": "HigherEdJobs (aggregator)", "careers": "https://www.higheredjobs.com", "ats": "various", "notes": "Adjunct, instructor, research coordinator listings across FL universities." }
+  ],
+  "tier_1_cros_pharma": [
+    { "name": "ICON plc", "careers": "https://careers.iconplc.com", "ats": "Workday", "notes": "CRO; remote clinical trial assistant, clinical data roles." },
+    { "name": "IQVIA", "careers": "https://jobs.iqvia.com", "ats": "Workday", "notes": "CRO/data; remote clinical data coordinator, CTA." },
+    { "name": "PPD / Thermo Fisher", "careers": "https://jobs.thermofisher.com", "ats": "Workday", "notes": "CRO + diagnostics; CTA, lab, data roles. Thermo has FL sites." },
+    { "name": "Parexel", "careers": "https://parexel.jobs", "ats": "Workday", "notes": "CRO; remote CTA and clinical support." },
+    { "name": "Syneos Health", "careers": "https://careers.syneoshealth.com", "ats": "Workday", "notes": "CRO; clinical trial support, remote-friendly." }
+  ],
+  "tier_1_molecular_diagnostics": [
+    { "name": "Exact Sciences", "careers": "https://www.exactsciences.com/careers", "ats": "Workday", "notes": "Specimen processing, lab, clinical research support." },
+    { "name": "Guardant Health", "careers": "https://guardanthealth.com/careers", "ats": "Greenhouse", "notes": "Oncology diagnostics; lab and clinical roles." },
+    { "name": "Natera", "careers": "https://www.natera.com/careers", "ats": "Greenhouse", "notes": "Genetic testing; specimen/accessioning, clinical support." },
+    { "name": "Tempus", "careers": "https://www.tempus.com/careers", "ats": "Greenhouse", "notes": "Oncology data + labs; clinical data and lab roles." },
+    { "name": "NeoGenomics", "careers": "https://neogenomics.com/careers", "ats": "iCIMS", "notes": "Cancer/oncology lab (FL-based, Fort Myers) — excellent cytology/pathology fit; some remote data roles." }
+  ],
+  "job_boards": [
+    { "name": "LinkedIn Jobs", "url": "https://www.linkedin.com/jobs", "quality": "high", "notes": "Use 'Easy Apply' sparingly; prefer employer-site apply." },
+    { "name": "Indeed", "url": "https://www.indeed.com", "quality": "medium", "notes": "High volume; run scam filter aggressively." },
+    { "name": "Google Jobs", "url": "https://www.google.com/search?q=jobs", "quality": "medium", "notes": "Aggregator; verify original source." },
+    { "name": "Glassdoor", "url": "https://www.glassdoor.com/Job", "quality": "medium", "notes": "Also useful for salary and company reviews." },
+    { "name": "ZipRecruiter", "url": "https://www.ziprecruiter.com", "quality": "medium", "notes": "Higher scam density; filter hard." },
+    { "name": "HigherEdJobs", "url": "https://www.higheredjobs.com", "quality": "high", "notes": "Academic/instructor/research roles." },
+    { "name": "ClinicalResearchJobs", "url": "https://www.clinicalresearch.jobs", "quality": "high", "notes": "Niche CRC/CRA/CTA roles." },
+    { "name": "BioSpace", "url": "https://www.biospace.com/jobs", "quality": "high", "notes": "Biotech/pharma/diagnostics." },
+    { "name": "MedReps", "url": "https://www.medreps.com", "quality": "medium", "notes": "Medical roles; watch for pure-sales roles." }
+  ],
+  "ats_platforms": [
+    "Workday (myworkdayjobs.com)",
+    "Taleo",
+    "iCIMS",
+    "Greenhouse (greenhouse.io)",
+    "Lever (lever.co)",
+    "ADP",
+    "Brassring / Kenexa"
+  ]
+}

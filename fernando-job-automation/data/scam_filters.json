@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "version": "1.0",
+    "purpose": "Rule set for the scam/spam/fake-posting filter. Each match adds risk weight. Thresholds map total weight to a Scam Risk Rating.",
+    "last_updated": "2026-07-02"
+  },
+  "risk_thresholds": {
+    "Low": { "min": 0, "max": 2 },
+    "Medium": { "min": 3, "max": 5 },
+    "High": { "min": 6, "max": 9 },
+    "Reject": { "min": 10, "max": 9999 }
+  },
+  "auto_reject_ratings": ["High", "Reject"],
+  "hard_reject_rules": [
+    {
+      "id": "pay_to_work",
+      "weight": 12,
+      "description": "Asks candidate to pay money, buy equipment, pay for training/onboarding, or send a deposit.",
+      "patterns": [
+        "pay a fee", "registration fee", "onboarding fee", "training fee",
+        "buy your own equipment", "purchase equipment", "send \\$", "wire transfer",
+        "pay for background check", "activation fee", "starter kit"
+      ]
+    },
+    {
+      "id": "check_cashing",
+      "weight": 12,
+      "description": "Check-cashing, mystery-shopper, or fund-processing scheme.",
+      "patterns": [
+        "cash a check", "deposit this check", "mystery shopper", "process payments",
+        "receive and forward funds", "money mule", "clear funds"
+      ]
+    },
+    {
+      "id": "crypto_giftcard_reship",
+      "weight": 12,
+      "description": "Crypto, gift cards, package forwarding, or reshipping language.",
+      "patterns": [
+        "gift card", "bitcoin", "crypto", "cryptocurrency", "usdt", "reship",
+        "package forwarding", "receive packages", "forward packages"
+      ]
+    },
+    {
+      "id": "sensitive_docs_before_offer",
+      "weight": 10,
+      "description": "Requests SSN, bank details, ID, or sensitive documents before a legitimate offer.",
+      "patterns": [
+        "ssn before", "social security number to start", "bank details to onboard",
+        "voided check to start", "send your id", "driver'?s license copy",
+        "direct deposit before interview", "banking information now"
+      ]
+    }
+  ],
+  "high_risk_rules": [
+    {
+      "id": "messaging_app_only",
+      "weight": 5,
+      "description": "Recruiting conducted only via Telegram / WhatsApp / Signal chat.",
+      "patterns": ["telegram", "whatsapp", "signal app", "text me on", "hangouts", "@gmail on telegram"]
+    },
+    {
+      "id": "personal_email_recruiter",
+      "weight": 4,
+      "description": "Recruiter uses a personal Gmail/Yahoo/Outlook/Hotmail/AOL/iCloud address instead of a company domain.",
+      "patterns": [
+        "@gmail\\.com", "@yahoo\\.com", "@outlook\\.com", "@hotmail\\.com",
+        "@aol\\.com", "@icloud\\.com", "@protonmail\\.com", "@mail\\.com"
+      ]
+    },
+    {
+      "id": "urgent_pressure",
+      "weight": 3,
+      "description": "Urgent pressure tactics to accept or respond immediately.",
+      "patterns": [
+        "urgent hire", "start immediately", "limited slots", "act now",
+        "respond within 24 hours", "hiring today", "immediate start no interview",
+        "don'?t miss this", "few positions left"
+      ]
+    },
+    {
+      "id": "unrealistic_pay_easy_work",
+      "weight": 4,
+      "description": "Unrealistic pay for minimal/no-experience remote work.",
+      "patterns": [
+        "\\$\\d{3,} per day from home", "earn \\$\\d{4,}/week", "no experience needed high pay",
+        "work 2 hours", "\\$\\d{2,}/hour data entry no experience", "easy money"
+      ]
+    },
+    {
+      "id": "no_company_footprint",
+      "weight": 4,
+      "description": "No verifiable company website / no real business presence / vague company name.",
+      "patterns": [
+        "confidential company", "undisclosed company", "name withheld",
+        "no website", "company name will be shared later"
+      ]
+    }
+  ],
+  "medium_risk_rules": [
+    {
+      "id": "vague_duties",
+      "weight": 2,
+      "description": "No clear job duties or responsibilities listed.",
+      "patterns": ["duties will be discussed", "responsibilities upon hire", "flexible tasks"]
+    },
+    {
+      "id": "commission_disguised_as_salary",
+      "weight": 3,
+      "description": "Commission-only role marketed as salaried, or clinical title that is really sales/MLM.",
+      "patterns": [
+        "unlimited earning potential", "commission only", "100% commission",
+        "be your own boss", "build your team", "recruit others", "downline",
+        "1099 only", "independent contractor sales"
+      ]
+    },
+    {
+      "id": "fake_clinical_funnel",
+      "weight": 3,
+      "description": "Fake clinical/research title that is really a sales, recruiting, or MLM funnel.",
+      "patterns": [
+        "clinical research assistant.*sales", "research assistant.*commission",
+        "medical sales team", "health and wellness business opportunity",
+        "distributor", "brand ambassador health"
+      ]
+    },
+    {
+      "id": "poor_grammar_inconsistency",
+      "weight": 2,
+      "description": "Poor grammar, inconsistent company info, or mismatched domains (manual reviewer flag).",
+      "patterns": ["kindly revert", "dear applicant congratulations", "you have been selected"]
+    },
+    {
+      "id": "no_interview_offer",
+      "weight": 3,
+      "description": "Offers a job with no interview or screening.",
+      "patterns": ["hired without interview", "no interview required", "guaranteed position", "offer letter attached"]
+    }
+  ],
+  "reviewer_checklist": [
+    "Does the company have a real website with a careers page listing this role?",
+    "Does the recruiter email match the company's actual domain?",
+    "Is the salary realistic for the role, market, and Tampa Bay area?",
+    "Are duties, location, and requirements clearly and consistently stated?",
+    "Is the same posting appearing under multiple different company names?",
+    "Is any money, gift card, crypto, or personal financial info requested before an official offer?",
+    "Is all recruiting happening off-platform in Telegram/WhatsApp only?",
+    "Was contact unsolicited with immediate pressure to accept?"
+  ],
+  "legit_signal_boosts": {
+    "description": "Signals that REDUCE scam risk (negative weight) when present.",
+    "rules": [
+      { "id": "known_employer_domain", "weight": -3, "description": "Application URL is on a known employer or ATS domain." },
+      { "id": "ats_portal", "weight": -2, "patterns": ["myworkdayjobs", "taleo", "icims", "greenhouse.io", "lever.co", "workday", "myworkday", "brassring", "adp"] },
+      { "id": "clear_salary_band", "weight": -1, "description": "Posting lists a concrete, market-plausible salary band." }
+    ]
+  }
+}

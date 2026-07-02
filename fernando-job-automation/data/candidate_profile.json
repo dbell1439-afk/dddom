@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "profile_version": "1.0",
+    "last_updated": "2026-07-02",
+    "owner": "Fernando Rodrigues",
+    "maintained_by": "Dominique + Fernando",
+    "notes": "Single source of truth for scoring, resume tailoring, and application materials. Update this file when facts change; the whole system reads from it."
+  },
+  "identity": {
+    "full_name": "Fernando Rodrigues",
+    "headline": "Bilingual Biomedical Professional | Lead Phlebotomist | International Laboratory & Cytology Leadership",
+    "current_title": "Lead Phlebotomist",
+    "current_employer": "Tampa General Hospital - Spring Hill",
+    "current_start_date": "2023-03",
+    "current_pay_hourly_usd": 22,
+    "current_annual_equivalent_usd": 45760,
+    "work_authorization": "Authorized to work in the U.S.",
+    "relocation": false,
+    "commute_tolerance_minutes": 60
+  },
+  "location": {
+    "home_base": "Spring Hill, FL",
+    "metro": "Tampa Bay",
+    "preferred_geography": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Spring Hill",
+      "Brooksville",
+      "Wesley Chapel",
+      "Orlando (hybrid/commutable only)"
+    ],
+    "remote_ok": true,
+    "remote_scope": "U.S.-based remote/online roles",
+    "hybrid_ok": true,
+    "onsite_ok": true
+  },
+  "salary_goals": {
+    "current_baseline_usd": 45760,
+    "target_min_usd": 60000,
+    "target_ideal_usd": 75000,
+    "target_stretch_usd": 90000,
+    "minimum_acceptable_usd": 50000,
+    "strategic_lateral_ok": true,
+    "strategic_lateral_reason": "A lateral or slight bump is acceptable if it moves Fernando into research/lab-operations tracks with clear advancement or credentialing support."
+  },
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Biomedicine",
+      "year": 2005,
+      "country": "Brazil",
+      "wes_evaluated": true,
+      "us_equivalency": "Bachelor's degree in Biomedical Science (WES-verified)"
+    },
+    {
+      "degree": "Specialization in Oncology Cytology",
+      "year": 2006,
+      "country": "Brazil",
+      "wes_evaluated": true,
+      "us_equivalency": "Post-graduate specialization in cytology/cytopathology"
+    },
+    {
+      "degree": "Master's Degree in Biopathology",
+      "year": 2014,
+      "country": "Brazil",
+      "wes_evaluated": true,
+      "us_equivalency": "Master's degree in Biopathology / laboratory pathology sciences (WES-verified)"
+    }
+  ],
+  "work_history": [
+    {
+      "title": "Lead Phlebotomist",
+      "employer": "Tampa General Hospital - Spring Hill",
+      "start": "2023-03",
+      "end": "present",
+      "location": "Spring Hill, FL",
+      "highlights": [
+        "Leads phlebotomy operations and daily specimen collection in a U.S. hospital setting",
+        "Ensures specimen integrity, labeling accuracy, and chain-of-custody compliance",
+        "Trains and supports phlebotomy staff and new hires",
+        "Patient-facing care across diverse and bilingual populations",
+        "Adheres to clinical protocols, HIPAA, OSHA, and infection-control standards"
+      ]
+    },
+    {
+      "title": "Professor / Coordinator / Laboratory Director",
+      "employer": "Higher-education / clinical laboratory institutions (Brazil)",
+      "start": "2007",
+      "end": "2018",
+      "location": "Brazil",
+      "highlights": [
+        "Directed laboratory operations, staffing, quality control, and compliance",
+        "Coordinated academic programs and supervised faculty and students",
+        "Taught biomedical science, cytology, and laboratory methods",
+        "Managed budgets, workflows, equipment, and accreditation-adjacent standards",
+        "Built and delivered training curricula for laboratory and clinical students"
+      ]
+    }
+  ],
+  "credentials": {
+    "held": [
+      "BLS / CPR (current)",
+      "WES credential evaluation completed and verified",
+      "Phlebotomy experience (hospital lead level)"
+    ],
+    "in_progress": [],
+    "not_held": [
+      "ASCP MLS/MT (U.S.)",
+      "AAB MT (attempted x2, not passed)",
+      "Florida clinical laboratory personnel license (CLT/CLS/Technologist)",
+      "Cytotechnologist (U.S. CT(ASCP))",
+      "RN / MD / PA / PharmD"
+    ],
+    "obtainable_soon": [
+      "CITI Program GCP / Human Subjects (online, low cost)",
+      "ICH-GCP certificate",
+      "HIPAA / OSHA refreshers",
+      "SoCRA / ACRP entry-level clinical research certificates (with experience)"
+    ]
+  },
+  "certification_notes": {
+    "aab_mt": "Attempted twice, not passed. Do NOT treat AAB or U.S. MT/MLS as a hard requirement unless the posting explicitly allows pending certification, trainee pathway, foreign-credential equivalency, or related experience.",
+    "honest_framing": "Fernando holds a foreign biomedical Master's and cytology specialization (WES-verified) plus U.S. hospital lab-lead experience, but does NOT currently hold U.S. MLS/MT/ASCP certification or a Florida lab license. Never imply otherwise in any application material."
+  },
+  "languages": [
+    { "language": "Portuguese", "proficiency": "Native" },
+    { "language": "English", "proficiency": "Fluent (professional working)" },
+    { "language": "Spanish", "proficiency": "Conversational" }
+  ],
+  "strengths": [
+    "International biomedical education (BSc Biomedicine, MSc Biopathology) with WES verification",
+    "11 years directing and coordinating laboratories and academic programs",
+    "Hands-on U.S. hospital phlebotomy leadership",
+    "Cytology / oncology cytopathology specialization",
+    "Trilingual: Portuguese (native), English (fluent), Spanish (conversational)",
+    "Teaching, training, and curriculum development",
+    "Quality control, compliance, and specimen-handling rigor",
+    "Comfortable with diverse and multicultural patient populations"
+  ],
+  "possible_weaknesses": [
+    "No current U.S. MLS/MT/ASCP certification or Florida lab license",
+    "AAB MT exam not yet passed",
+    "Some U.S. employers under-recognize foreign degrees despite WES evaluation",
+    "English interview anxiety / ESL nervousness under pressure",
+    "Limited formal U.S. clinical-research (CRC/CRA) job titles, though transferable skills are strong",
+    "Career gap between 2018 academic role and 2023 U.S. phlebotomy role"
+  ],
+  "transferable_skills": [
+    "Specimen collection, processing, accessioning, and integrity control",
+    "Laboratory operations management and workflow optimization",
+    "Quality control, SOP adherence, and compliance documentation",
+    "Protocol execution and data recording (research-adjacent)",
+    "Staff training, onboarding, and supervision",
+    "Patient communication, consent, and clinical intake",
+    "Cytology/histology specimen preparation and screening knowledge",
+    "Bilingual patient navigation and clinical liaison",
+    "Regulatory awareness (HIPAA, OSHA, infection control)"
+  ],
+  "target_roles_ranked": [
+    "Clinical Research Coordinator I / Clinical Research Assistant",
+    "Lab Supervisor / Lab Manager / Laboratory Operations Coordinator",
+    "Pathology Lab Assistant / Histology Assistant / Cytology Lab Assistant",
+    "Specimen Processing Supervisor / Accessioning Supervisor",
+    "Lead Phlebotomist / Mobile Phlebotomy Supervisor / Donor Center Supervisor",
+    "Biomedical Research Assistant / Research Lab Coordinator",
+    "Clinical Trial Assistant / Remote Clinical Trial Support",
+    "Medical Laboratory Technician trainee / equivalent pathway",
+    "QA / QC roles in lab, biotech, pharma, diagnostics, clinical research",
+    "Bilingual Patient Services / Clinical Liaison (only if pay + advancement are strong)",
+    "Adjunct / phlebotomy instructor / biomedical science / Portuguese medical tutor",
+    "Remote medical data abstraction / clinical data coordinator / lab data coordinator"
+  ],
+  "highest_probability_categories": [
+    "Lead Phlebotomist / Phlebotomy Supervisor",
+    "Specimen Processing Supervisor / Accessioning Supervisor",
+    "Lab Operations Coordinator",
+    "Pathology / Cytology Lab Assistant",
+    "Clinical Research Assistant / Clinical Research Coordinator I",
+    "Research Lab Coordinator",
+    "Bilingual clinical research support",
+    "Phlebotomy instructor",
+    "Lab quality / documentation coordinator",
+    "Clinical data coordinator (lab terminology advantage)"
+  ],
+  "lower_probability_categories": [
+    "Senior research scientist",
+    "MLS/MT roles requiring U.S. certification",
+    "Cytotechnologist roles requiring U.S. licensure/certification",
+    "CRA roles requiring prior monitoring experience",
+    "Lab director roles requiring U.S. licensure"
+  ],
+  "hard_constraints": {
+    "do_not_require_without_pathway": [
+      "ASCP MLS/MT certification",
+      "AAB MT certification",
+      "Florida clinical laboratory technologist/scientist license",
+      "CT(ASCP) cytotechnologist certification",
+      "RN / MD / PA / PharmD or any professional clinical license"
+    ],
+    "auto_reject_if_hard_required": true,
+    "acceptable_if_posting_allows": [
+      "Certification pending / within X months of hire",
+      "Trainee or apprenticeship pathway",
+      "Foreign credential equivalency accepted",
+      "Related experience accepted in lieu of certification"
+    ],
+    "avoid": [
+      "Heavy sales / commission-only roles marketed as clinical",
+      "MLM / recruiting-funnel roles disguised as research/clinical",
+      "Roles below current pay unless strategically justified",
+      "Daily commute beyond 60 minutes one-way (unless remote/hybrid)"
+    ]
+  },
+  "ats_keyword_bank": {
+    "core_lab": [
+      "phlebotomy", "venipuncture", "specimen collection", "specimen processing",
+      "accessioning", "specimen integrity", "chain of custody", "labeling accuracy",
+      "laboratory operations", "clinical laboratory", "sample handling", "centrifugation",
+      "aliquoting", "biohazard handling", "cold chain"
+    ],
+    "quality_compliance": [
+      "quality control", "QC", "QA", "SOP", "standard operating procedures",
+      "CLIA", "CAP", "GLP", "GMP", "HIPAA", "OSHA", "infection control",
+      "compliance", "audit", "documentation", "corrective action"
+    ],
+    "research": [
+      "clinical research", "clinical trial", "protocol", "GCP", "ICH-GCP",
+      "informed consent", "IRB", "case report form", "CRF", "source documentation",
+      "data entry", "data abstraction", "EDC", "regulatory binder", "study coordinator",
+      "subject recruitment", "adverse event", "eligibility screening"
+    ],
+    "pathology_cytology": [
+      "cytology", "cytopathology", "histology", "pathology", "grossing support",
+      "slide preparation", "staining", "Pap smear", "screening", "tissue handling",
+      "oncology"
+    ],
+    "leadership_training": [
+      "lead", "supervisor", "coordinator", "team lead", "training", "onboarding",
+      "staff supervision", "curriculum", "instructor", "scheduling", "workflow management",
+      "process improvement", "mentoring"
+    ],
+    "soft_bilingual": [
+      "bilingual", "Portuguese", "Spanish", "patient care", "patient communication",
+      "customer service", "multicultural", "interpretation", "patient navigation"
+    ]
+  },
+  "role_positioning_strategy": {
+    "clinical_research": "Lead with lab operations + protocol/SOP rigor + specimen handling + documentation discipline + bilingual patient interaction. Frame phlebotomy as direct study-visit and specimen-collection experience; frame lab-director years as protocol/quality governance. Add CITI/GCP certificate to strengthen instantly.",
+    "lab_operations": "Lead with 11 years directing labs + current U.S. hospital lead role. Emphasize staffing, QC, compliance, workflow, and training. This is the strongest overlap between his history and U.S. titles.",
+    "pathology_cytology_assistant": "Lead with cytology specialization + biopathology master's + specimen handling. Position as academically over-qualified for assistant roles = high interview probability and fast onboarding.",
+    "specimen_processing": "Lead with accessioning/specimen-integrity language and current hospital throughput. Supervisor angle uses his leadership history.",
+    "phlebotomy_lead": "Direct match. Lead with current title, hospital setting, training, and bilingual patient care. Highest probability of interview and offer.",
+    "qa_qc": "Lead with lab QC/compliance, SOPs, documentation, and audit-readiness from director years.",
+    "teaching_training": "Lead with professor/coordinator years + current staff training. Ideal for phlebotomy instructor, biomedical tutor, or Portuguese-language medical/science tutoring.",
+    "data_coordinator": "Lead with documentation discipline, lab terminology fluency, and detail orientation; remote-friendly and low certification barrier."
+  },
+  "esl_support": {
+    "interview_anxiety": true,
+    "strategies": [
+      "Use short, rehearsed answer versions for high-pressure questions",
+      "Prepare Portuguese anchor notes for complex answers, then deliver concise English",
+      "Lean on STAR examples so answers have structure and reduce improvisation",
+      "Practice the 'Tell me about yourself' script until automatic",
+      "Frame accent/ESL as an asset for bilingual patient populations"
+    ]
+  }
+}
