@@ -29,6 +29,8 @@ _HIGH_PROB_TITLES = [
     "research coordinator", "research assistant", "lab coordinator",
     "clinical data", "data coordinator", "quality control", "quality assurance",
     "instructor", "specimen", "donor",
+    "medical courier", "specimen courier", "lab courier", "specimen carrier",
+    "medical interpreter", "portuguese interpreter", "tutor",
 ]
 _LOW_PROB_TITLES = [
     "senior scientist", "principal scientist", "cytotechnologist",
@@ -260,9 +262,9 @@ def best_resume(job: dict) -> str:
         if "quality" in title or "qa" in title or "qc" in title:
             return "qa_qc_lab_resume.md"
         return "lab_operations_resume.md"
-    if any(t in title for t in ["phlebotom", "donor", "specimen collection"]):
+    if any(t in title for t in ["phlebotom", "donor", "specimen collection", "courier", "specimen carrier"]):
         return "phlebotomy_lead_resume.md"
-    if any(t in title for t in ["instructor", "adjunct", "tutor", "faculty", "teach"]):
+    if any(t in title for t in ["instructor", "adjunct", "tutor", "faculty", "teach", "interpreter"]):
         return "teaching_training_resume.md"
     if any(t in title for t in ["pathology", "cytology", "histology"]):
         return "lab_operations_resume.md"
