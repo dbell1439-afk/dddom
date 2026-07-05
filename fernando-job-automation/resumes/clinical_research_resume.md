@@ -1,7 +1,10 @@
-# Fernando Rodrigues
+# Fernando Fachinelli Rodrigues, M.Sc.
 **Clinical Research Coordinator / Assistant Candidate · Bilingual Biomedical Professional**
 
 Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
+
+
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
 
 > Tailored for **Clinical Research Coordinator I / Clinical Research Assistant /
 > Clinical Trial Assistant / Research Lab Coordinator** roles. Emphasizes protocol
@@ -15,7 +18,7 @@ Biomedical scientist (MSc Biopathology; Oncology Cytology specialization, WES-ve
 and current hospital **Lead Phlebotomist** transitioning into clinical research. Combines
 direct study-visit-style specimen collection, meticulous documentation and specimen
 integrity, and 11 years of laboratory protocol and quality governance. **Trilingual
-(Portuguese native, English fluent, Spanish conversational)** — a strong asset for subject
+(Portuguese native, English professional, Spanish conversational)** — a strong asset for subject
 recruitment, screening, and consent support with diverse and Portuguese/Spanish-speaking
 populations. Familiar with SOPs, HIPAA, and clinical protocol adherence.
 
@@ -31,7 +34,7 @@ recruitment & retention · Quality control · Adverse-event awareness · CRF/dat
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · Mar 2023 – Present
+### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
 - Collect and process specimens with strict integrity, labeling accuracy, and chain of custody — directly transferable to study-visit sample handling.
 - Interact with patients through intake and collection, explaining procedures and easing anxiety (consent-adjacent communication).
 - Maintain HIPAA, OSHA, and clinical-protocol compliance in a high-volume hospital lab.
@@ -54,7 +57,7 @@ recruitment & retention · Quality control · Adverse-event awareness · CRF/dat
 - *CITI GCP & Human Subjects — add on completion (recommended next step)*
 
 ## Languages
-Portuguese (native) · English (fluent) · Spanish (conversational)
+Portuguese (native) · English (professional) · Spanish (conversational)
 
 > **Honest note:** No prior formal CRA monitoring experience or U.S. lab license.
 > Positioned for Coordinator I / Assistant / Trial Assistant entry points where
