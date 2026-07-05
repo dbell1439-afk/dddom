@@ -47,20 +47,20 @@ to edit each file by hand. Re-run it any time you change `contact_info.json`.
 
 That's it.
 
-### Honest positioning & the `[CONFIRM]` items (read once)
-Every resume is built on facts supported by Fernando's own documents. A few details differed
-across his old drafts, so the resumes carry `[CONFIRM]` markers you should verify **before sending**:
+### Honest positioning (read once)
+Every resume is built on facts supported by Fernando's own documents. The three previously open
+items are now **confirmed** and baked in:
 
-1. **TGH title & dates** — resumes say "2023–Present," but his supervisor's reference letter says
-   "Phlebotomist and Laboratory Support Specialist, March 2022 – January 2024." Confirm with TGH HR.
-2. **Degrees** — resumes list one M.Sc. (Biopathology) + an oncology-cytology specialization. Only
-   claim a second Master's if the **WES report** recognizes it.
-3. **Certification** — the plan of record is the **AAB discipline-by-discipline** route. Do **not**
-   list "ASCP candidate" — Fernando is not ASCP-certified.
+1. **TGH:** **Phlebotomist, Tampa General Hospital – Spring Hill, March 2023 – present.**
+2. **Education:** **one Master's (M.Sc. Biopathology) + one Bachelor's (B.Sc. Biomedicine)**, plus the
+   Oncology Cytology postgraduate **specialization** (not a second degree).
+3. **Certification:** **AAB, one discipline at a time** (discipline-by-discipline route). Never list
+   "ASCP candidate" — Fernando is not ASCP-certified.
 
-The full list of what to verify (and what never to claim) lives in
-`data/candidate_profile.json` → `integrity_guardrails`. The golden rule: **honest positioning only —
-never invent a title, degree, license, certification, or metric.**
+A few minor items are still worth verifying against the WES report before sending (exact
+degree-granting institutions, B.Sc. year, and that BLS/HIPAA/OSHA dates are current) — see
+`data/candidate_profile.json` → `still_verify_before_sending`. The golden rule: **honest positioning
+only — never invent a title, degree, license, certification, or metric.**
 
 ---
 

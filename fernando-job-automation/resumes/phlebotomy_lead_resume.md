@@ -4,7 +4,7 @@
 Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 
-> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Positioning is honest only.
 
 > Tailored for **Lead Phlebotomist / Mobile Phlebotomy Supervisor / Donor Center
 > Supervisor / Specimen Collection Lead** roles. Highest probability of interview and
@@ -13,7 +13,7 @@ Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedi
 ---
 
 ## Professional Summary
-Hospital **Lead Phlebotomist** with a biomedical Master's and 11 years of prior laboratory
+Hospital **Phlebotomist** with a biomedical Master's and 11 years of prior laboratory
 leadership. Excellent venipuncture and difficult-draw skill, specimen integrity discipline,
 and a track record of training and leading phlebotomy staff. **Trilingual (Portuguese native,
 English professional, Spanish conversational)** — reduces patient anxiety and improves collection
@@ -31,7 +31,7 @@ Mobile & high-volume collection
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
+### Phlebotomist — Tampa General Hospital, Spring Hill, FL · March 2023 – Present
 - Lead daily phlebotomy operations; ensure accurate collection, labeling, and specimen integrity.
 - Train and mentor phlebotomists and new hires on technique, safety, and patient care.
 - Serve diverse and bilingual patients; calm anxious patients to improve first-stick success.

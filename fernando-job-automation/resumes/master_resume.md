@@ -4,10 +4,11 @@
 Spring Hill / Weeki Wachee, FL (Tampa Bay) · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed
 WES-Verified U.S. Equivalency (Ref# 5229645/dh) · U.S. Lawful Permanent Resident · Military-spouse (veterans'-preference eligible; DD-214 on request)
 
-> **HONEST-CORE MASTER RESUME.** Every line here is supported by Fernando's own documents.
-> Three facts still need confirmation before sending — each marked `[CONFIRM]`. Do NOT add the
-> inflated claims from earlier drafts (e.g., "data scientist," "operates flow cytometry daily,"
-> invented metrics, or an "ASCP candidate" credential). Positioning is honest only.
+> **HONEST-CORE MASTER RESUME.** Every line is supported by Fernando's own documents and his
+> confirmations: **Phlebotomist, Tampa General Hospital, March 2023–present; one Master's + one
+> Bachelor's (plus a cytology specialization); AAB certification via the discipline-by-discipline
+> route.** Do NOT add the inflated claims from earlier drafts (e.g., "data scientist," "operates
+> flow cytometry daily," invented metrics, or an "ASCP candidate" credential). Honest only.
 
 ---
 
@@ -32,8 +33,8 @@ Bilingual patient communication · Regulated-environment judgment (CAP/CLIA-awar
 
 ## Professional Experience
 
-### Lead Phlebotomist / Laboratory Support Specialist — Tampa General Hospital, Spring Hill, FL
-**2023 – Present**  `[CONFIRM exact title + dates: supervisor reference letter states "Phlebotomist and Laboratory Support Specialist, March 2022 – January 2024." Reconcile with TGH HR before sending.]`
+### Phlebotomist — Tampa General Hospital, Spring Hill, FL
+**March 2023 – Present**
 - Collect and process biospecimens for a high volume of oncology and general patients, safeguarding sample quality, labeling accuracy, and chain-of-custody integrity.
 - Work within a CAP/CLIA/FDA-regulated clinical laboratory and pathology division; maintain adherence to regulatory standards during audits and inspections.
 - Use digital tools to support sample tracking and documentation accuracy.
@@ -57,15 +58,14 @@ Bilingual patient communication · Regulated-environment judgment (CAP/CLIA-awar
 
 ---
 
-## Education  `[CONFIRM degree count + institutions against the WES report]`
+## Education
 - **M.Sc., Biopathology** — University of Uberaba (UNIUBE), Brazil, 2014 — *WES-verified (Master's)*
   *(Thesis advisor: Dr. Tony de Paiva Paulino.)*
-- **Specialization, Oncology (Exfoliative) Cytology** — University of Franca, Brazil, 2006 — *WES-verified*
 - **B.Sc., Biomedicine (Medical Modality)** — University of Uberaba (UNIUBE), Brazil, 2005 — *WES-verified (Bachelor's)*
+- **Postgraduate Specialization, Oncology (Exfoliative) Cytology** — University of Franca, Brazil, 2006 — *WES-verified (specialization, not a separate degree)*
 
-> One of Fernando's drafts lists a **second** Master's (Oncology Cytology) and different institutions
-> (UFTM / UNIPAM). Use whichever the **official WES evaluation** confirms — do not claim two Master's
-> unless WES recognizes two.
+> Confirmed: **one Master's + one Bachelor's** (plus the cytology specialization). Do not present
+> the cytology specialization as a second Master's.
 
 ---
 
@@ -77,12 +77,12 @@ Bilingual patient communication · Regulated-environment judgment (CAP/CLIA-awar
 
 ## Certifications & Memberships
 - Associate Member, American Association of Bioanalysts (AAB) — Member No. 20237453 (2025)
-- BLS / CPR (AHA) — `[CONFIRM current]` · HIPAA / OSHA / infection-control training — `[CONFIRM current]`
+- BLS / CPR (AHA) · HIPAA / OSHA / infection-control training *(keep dates current)*
 - WES credential evaluation completed (Ref# 5229645/dh)
-- Pursuing AAB Medical Technologist certification via the **discipline-by-discipline route** `[CONFIRM pathway — AAB is the plan of record; do not list ASCP/AMT unless confirmed]`
+- Pursuing **AAB Medical Technologist certification one discipline at a time** (discipline-by-discipline route)
 
-> **Do not list "ASCP Board of Certification candidate."** Fernando is not ASCP-certified; his
-> documents name AAB, AMT, and ASCP inconsistently. Put only the one confirmed pathway.
+> **Do not list "ASCP Board of Certification candidate."** Fernando is not ASCP-certified. His
+> certification pathway is AAB, taken one discipline at a time.
 
 ---
 

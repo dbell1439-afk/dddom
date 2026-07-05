@@ -4,7 +4,7 @@
 Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 
-> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Positioning is honest only.
 
 > Tailored for **Clinical Research Coordinator I / Clinical Research Assistant /
 > Clinical Trial Assistant / Research Lab Coordinator** roles. Emphasizes protocol
@@ -15,7 +15,7 @@ Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedi
 
 ## Professional Summary
 Biomedical scientist (MSc Biopathology; Oncology Cytology specialization, WES-verified)
-and current hospital **Lead Phlebotomist** transitioning into clinical research. Combines
+and current hospital **Phlebotomist** transitioning into clinical research. Combines
 direct study-visit-style specimen collection, meticulous documentation and specimen
 integrity, and 11 years of laboratory protocol and quality governance. **Trilingual
 (Portuguese native, English professional, Spanish conversational)** — a strong asset for subject
@@ -34,7 +34,7 @@ recruitment & retention · Quality control · Adverse-event awareness · CRF/dat
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
+### Phlebotomist — Tampa General Hospital, Spring Hill, FL · March 2023 – Present
 - Collect and process specimens with strict integrity, labeling accuracy, and chain of custody — directly transferable to study-visit sample handling.
 - Interact with patients through intake and collection, explaining procedures and easing anxiety (consent-adjacent communication).
 - Maintain HIPAA, OSHA, and clinical-protocol compliance in a high-volume hospital lab.
