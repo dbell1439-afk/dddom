@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-07-02",
+    "purpose": "Defines accepted intake formats and the canonical normalized job schema every posting is converted into."
+  },
+  "intake_methods": [
+    { "id": "paste_url", "description": "Paste a single job URL into a .txt file in /job_posts or into the intake prompt.", "how": "Save as job_posts/<name>.txt with the URL on the first line." },
+    { "id": "paste_description", "description": "Copy the full job description text from any board or career page.", "how": "Save the raw text as job_posts/<name>.txt. The intake script parses it." },
+    { "id": "csv_upload", "description": "Export/download saved jobs as CSV from LinkedIn, Indeed, or ZipRecruiter.", "how": "Drop the CSV into /job_posts. Run scripts/intake.py --csv <file>." },
+    { "id": "browser_copy", "description": "Browser copy/paste of a posting.", "how": "Same as paste_description." },
+    { "id": "career_page_excerpt", "description": "Excerpt from a company career page.", "how": "Same as paste_description; tag the company in the filename." }
+  ],
+  "normalized_job_schema": {
+    "job_id": "string (auto: slug of company+title+date)",
+    "job_title": "string",
+    "company": "string",
+    "location": "string",
+    "work_mode": "one of: Remote | Hybrid | On-site | Unknown",
+    "salary_range": "string or null",
+    "salary_min_usd": "number or null",
+    "salary_max_usd": "number or null",
+    "job_source": "string (board or career page)",
+    "application_url": "string",
+    "date_found": "YYYY-MM-DD",
+    "deadline": "YYYY-MM-DD or null",
+    "required_credentials": ["string"],
+    "preferred_credentials": ["string"],
+    "required_experience": "string",
+    "keywords": ["string"],
+    "responsibilities": ["string"],
+    "red_flags": ["string"],
+    "scam_weight": "number",
+    "scam_risk": "one of: Low | Medium | High | Reject",
+    "credential_barrier": "one of: None | Soft | Hard",
+    "fit_score": "number 0-100",
+    "probability_score": "number 0-100",
+    "recommendation": "one of: Apply immediately | Strong match | Possible match | Weak match | Do not apply",
+    "best_resume_version": "string (filename in /resumes)",
+    "cover_letter_needed": "boolean",
+    "follow_up_date": "YYYY-MM-DD or null",
+    "reasoning": "string",
+    "decision": "one of: Apply | Do Not Apply"
+  },
+  "field_extraction_hints": {
+    "salary": ["$", "per hour", "/hr", "per year", "annually", "K", "salary range", "compensation"],
+    "remote": ["remote", "work from home", "wfh", "telecommute"],
+    "hybrid": ["hybrid", "days onsite", "in office"],
+    "onsite": ["on-site", "onsite", "in-person", "on site"],
+    "required": ["required", "must have", "minimum qualifications", "requirements"],
+    "preferred": ["preferred", "nice to have", "plus", "desired", "bonus"],
+    "deadline": ["apply by", "closing date", "deadline", "applications close"]
+  }
+}

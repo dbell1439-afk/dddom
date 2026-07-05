@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "profile_version": "2.0",
+    "last_updated": "2026-07-05",
+    "owner": "Fernando Fachinelli Rodrigues",
+    "maintained_by": "Dominique + Fernando",
+    "notes": "Single source of truth for scoring, resume tailoring, and application materials. Version 2.0 reconciles the uploaded resume, NIST cover letter, and the AAB/income plan against the known constraints. Only VERIFIED, defensible facts are used for positioning. See integrity_guardrails for claims that appeared in some documents but must NOT be used because they are inaccurate, unverifiable, or inconsistent."
+  },
+  "identity": {
+    "full_name": "Fernando Fachinelli Rodrigues",
+    "credential_suffix": "M.Sc.",
+    "headline": "Bilingual Biomedical Scientist (M.Sc.) | Phlebotomist | 11-yr Laboratory Director & Professor | Cytology/Pathology",
+    "current_title": "Phlebotomist",
+    "current_employer": "Tampa General Hospital - Spring Hill (Clinical Laboratory & Pathology Division)",
+    "current_start_date": "2023-03",
+    "current_is_present": true,
+    "current_pay_hourly_usd": 22,
+    "current_annual_equivalent_usd": 45760,
+    "work_authorization": "U.S. Lawful Permanent Resident (U.S. citizenship pending)",
+    "veterans_preference": "Eligible via military spouse (DD-214 available upon request) — use for federal/USAJOBS applications",
+    "relocation": false,
+    "commute_tolerance_minutes": 60,
+    "brazil_professional_registration": "CRBM No. 2261 (Brazilian clinical analysis / biomedicine council registration)"
+  },
+  "contact": {
+    "phone": "352-701-5535",
+    "email": "bio.fcjp.edu@gmail.com",
+    "linkedin": "linkedin.com/in/fernando-rodrigues-biomed",
+    "city_state": "Spring Hill / Weeki Wachee, FL 34613"
+  },
+  "location": {
+    "home_base": "Spring Hill / Weeki Wachee, FL",
+    "metro": "Tampa Bay",
+    "preferred_geography": [
+      "Tampa", "St. Petersburg", "Clearwater", "Spring Hill", "Weeki Wachee",
+      "Brooksville", "Wesley Chapel", "Orlando (hybrid/commutable only)"
+    ],
+    "remote_ok": true,
+    "remote_scope": "U.S.-based remote/online roles",
+    "hybrid_ok": true,
+    "onsite_ok": true
+  },
+  "salary_goals": {
+    "current_baseline_usd": 45760,
+    "target_min_usd": 60000,
+    "target_ideal_usd": 75000,
+    "target_stretch_usd": 90000,
+    "minimum_acceptable_usd": 50000,
+    "strategic_lateral_ok": true,
+    "strategic_lateral_reason": "A lateral or slight bump is acceptable if it moves Fernando into research/lab-operations tracks with clear advancement or credentialing support.",
+    "side_income_note": "Per the AAB/income plan, a two-lane stack (one paid route + one high-margin knowledge lane) can close the gap NOW without waiting on the AAB exam. See side_income_lanes."
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Biopathology",
+      "institution": "University of Uberaba (UNIUBE)",
+      "location": "Uberaba, Minas Gerais, Brazil",
+      "year": 2014,
+      "wes_evaluated": true,
+      "wes_reference": "5229645/dh",
+      "us_equivalency": "Master's degree (WES-verified)",
+      "thesis": "Histological outcomes of photodynamic therapy on alveolar bone repair in a Wistar-rat model (tissue preparation, microscopy, biostatistics, under IRB oversight)."
+    },
+    {
+      "degree": "Specialization in Oncology Cytology",
+      "institution": "University of Franca",
+      "location": "Franca, Brazil",
+      "year": 2006,
+      "wes_evaluated": true,
+      "us_equivalency": "Post-graduate specialization in cytology/cytopathology"
+    },
+    {
+      "degree": "Bachelor of Science in Biomedicine (Medical Modality)",
+      "institution": "University of Uberaba (UNIUBE)",
+      "location": "Uberaba, Minas Gerais, Brazil",
+      "year": 2005,
+      "wes_evaluated": true,
+      "us_equivalency": "Bachelor's degree (WES-verified)"
+    }
+  ],
+  "published_research": [
+    "M.Sc. thesis: photodynamic therapy on alveolar bone repair (Wistar rats) — histology, microscopy, biostatistics.",
+    "Co-authored, peer-reviewed, IRB-approved study comparing antimicrobial efficacy of ozone vs. chlorhexidine on oral microbiota (turbidimetric spectrophotometry, McFarland standards)."
+  ],
+  "work_history": [
+    {
+      "title": "Lead Phlebotomist",
+      "employer": "Tampa General Hospital - Spring Hill",
+      "start": "2023-03",
+      "end": "present",
+      "location": "Spring Hill, FL",
+      "highlights": [
+        "Leads phlebotomy operations and daily specimen collection in a U.S. hospital serving oncology and general patients",
+        "Ensures specimen integrity, labeling accuracy, and chain-of-custody compliance",
+        "Trains and supports phlebotomy staff and new hires",
+        "Patient-facing care across diverse and bilingual populations",
+        "Adheres to clinical protocols, HIPAA, OSHA, and infection-control standards",
+        "English proficiency formally verified by TGH supervisor over 2+ years of daily clinical documentation"
+      ],
+      "positioning_caution": "Real title is Lead Phlebotomist (collection-focused). Do NOT restyle this as 'Lead Biospecimen Data Specialist,' 'computational biologist,' or claim daily flow-cytometry/LIS engineering unless a specific, truthful duty supports it. See integrity_guardrails."
+    },
+    {
+      "title": "Laboratory Director — Diagnostic Pathology & Clinical Analysis",
+      "employer": "University Center of Patos de Minas",
+      "start": "2007-01",
+      "end": "2018-10",
+      "location": "Patos de Minas, Brazil",
+      "highlights": [
+        "Directed high-complexity diagnostic lab across hematology, cytology, clinical chemistry, and histopathology",
+        "Reduced specimen rejection rates substantially through workflow and SOP standardization",
+        "Developed and audited SOPs; maintained accreditation-review readiness",
+        "Technical director of the clinical analysis laboratory (CRBM No. 2261)"
+      ]
+    },
+    {
+      "title": "Faculty Researcher / Professor — Biomedical Sciences & Laboratory Medicine",
+      "employer": "City College of Joao Pinheiro",
+      "start": "2006-02",
+      "end": "2018-10",
+      "location": "Joao Pinheiro, Brazil",
+      "highlights": [
+        "Taught hematology, molecular biology, diagnostic pathology, and experimental methodology",
+        "Led the biomedicine academic program; supervised 60+ graduate research theses",
+        "Mentored large undergraduate cohorts in laboratory sciences and experimental design",
+        "Integrated GLP/GCP concepts into curriculum and lab training"
+      ]
+    }
+  ],
+  "credentials": {
+    "held": [
+      "M.Sc. Biopathology + BSc Biomedicine + Oncology Cytology specialization (all WES-verified; WES Ref 5229645/dh)",
+      "BLS / CPR (confirm current date)",
+      "Associate Member, American Association of Bioanalysts (AAB) — Member No. 20237453 (this is MEMBERSHIP, not MT certification)",
+      "Brazilian CRBM No. 2261 professional registration",
+      "Military-spouse veterans'-preference eligibility (DD-214 available)"
+    ],
+    "in_progress_or_planned": [
+      "AAB MT via DISCIPLINE-BY-DISCIPLINE route (Basic Knowledge + one discipline) — pending AAB + Florida Board eligibility confirmation",
+      "CITI Program GCP / Human Subjects (online, low cost) — strongly recommended next step",
+      "ICH-GCP certificate",
+      "National phlebotomy certification (NHA/ASCP PBT) — helps mobile/lead phlebotomy and courier lanes",
+      "HIPAA / OSHA Bloodborne Pathogens refreshers (needed for courier + mobile phlebotomy)",
+      "40-hour medical interpreter course (for Portuguese medical interpreting lane)"
+    ],
+    "not_held": [
+      "ASCP MLS/MT certification (NOT certified; do not claim 'ASCP candidate' as a credential)",
+      "AAB MT certification (attempted generalist exam twice, not passed)",
+      "Florida clinical laboratory technologist/scientist license",
+      "Cytotechnologist CT(ASCP)",
+      "RN / MD / PA / PharmD"
+    ]
+  },
+  "certification_notes": {
+    "aab_status": "Fernando is an AAB Associate MEMBER (No. 20237453) and has attempted the AAB MT generalist exam TWICE without passing. New strategy (per the income/credential plan): pursue the AAB discipline-by-discipline route — pass Basic Knowledge + one discipline at a time — IF AAB and the Florida Board confirm eligibility for specialty licensure that way. Retaking the full generalist with the same method is discouraged.",
+    "ascp_status": "NOT ASCP-certified and not confirmed eligible. Do not present 'ASCP Board of Certification candidate' as a credential on resumes or applications.",
+    "honest_framing": "Fernando holds a WES-verified foreign biomedical Master's + cytology specialization, 11 years of Brazilian lab-director and professor experience, real peer-reviewed research, and current U.S. hospital phlebotomy lead experience. He does NOT currently hold U.S. MLS/MT/ASCP certification or a Florida lab license. Never imply otherwise."
+  },
+  "languages": [
+    { "language": "Portuguese", "proficiency": "Native" },
+    { "language": "English", "proficiency": "Professional working (ESL; formally verified by current supervisor over 2+ years)" },
+    { "language": "Spanish", "proficiency": "Intermediate / conversational" }
+  ],
+  "military_spouse_resources": {
+    "status": "Military spouse — veterans'-preference eligible (DD-214 available). A real, underused advantage.",
+    "funding_and_programs": [
+      "MyCAA — up to $4,000 for eligible military spouses toward portable licenses/certs (verify eligibility by pay grade/orders before relying on it). Ideal for CITI/GCP, phlebotomy cert, interpreter course.",
+      "Hiring Our Heroes — fellowships, hiring events, military-spouse career resources (good for clinical research, healthcare admin, remote, corporate healthcare employers).",
+      "SBA military-spouse + VBOC resources — free training/counseling for a tutoring or mobile-phlebotomy side business.",
+      "USAJOBS — apply with veterans'-preference (spouse) where eligible; strong for NIST/VA/federal lab-adjacent roles."
+    ]
+  },
+  "side_income_lanes": {
+    "note": "From the AAB/income plan: stack ONE paid route + ONE high-margin knowledge lane. Two strong lanes beat five exhausting ones. These close the income gap NOW, independent of the AAB exam.",
+    "lanes": [
+      { "lane": "Medical courier / specimen carrier", "rate": "$22+/hr net; best routes $25-$35/hr net", "needs": "Driver license, clean MVR, auto insurance, HIPAA, OSHA Bloodborne Pathogens, DOT/IATA UN3373 awareness, cold-chain/temp-log discipline", "targets": "Quest, Labcorp, hospital courier contractors, blood/plasma logistics, specialty labs, pharmacies" },
+      { "lane": "Private / mobile phlebotomy support", "rate": "Company $20-$28/hr; private draws $45-$100/visit", "needs": "Phlebotomy experience, national phlebotomy cert, BLS, HIPAA, Bloodborne Pathogens, TB/immunization; mobile-examiner companies first", "targets": "Mobile examiner companies, concierge clinics, specialty/wellness labs" },
+      { "lane": "Biomedical / healthcare tutoring", "rate": "A&P/med-term $45-$75/hr; bilingual $60-$85/hr; exam prep $75-$100/hr", "needs": "Professor background (real), Zoom, profiles on Wyzant/Preply/Care/Thumbtack; lead with biomedical science, not just phlebotomy", "targets": "Wyzant, Preply, Care.com, Thumbtack" },
+      { "lane": "Portuguese medical interpreting / language support", "rate": "$25-$35/hr; premium coaching $45-$80/hr", "needs": "Portuguese-English fluency, HIPAA, 40-hour medical interpreter course, quiet workspace; CCHI/NBCMI later", "targets": "Remote interpreting platforms, local healthcare systems" }
+    ]
+  },
+  "strengths": [
+    "WES-verified foreign biomedical Master's (Biopathology) + cytology specialization + BSc Biomedicine",
+    "11 years directing a multi-department diagnostic lab (hematology, cytology, chemistry, histopathology)",
+    "11 years as a professor; led a biomedicine program; supervised 60+ graduate theses",
+    "Real peer-reviewed research (histology/microscopy, antimicrobial microbiology)",
+    "Current U.S. hospital phlebotomy / specimen-collection experience with integrity and compliance rigor",
+    "Cytology / oncology cytopathology specialization",
+    "Trilingual: Portuguese (native), English (professional working), Spanish (intermediate)",
+    "Teaching, training, and curriculum development",
+    "Military-spouse veterans' preference + MyCAA credential funding"
+  ],
+  "possible_weaknesses": [
+    "No current U.S. MLS/MT/ASCP certification or Florida lab license",
+    "AAB MT generalist exam attempted twice, not passed (new discipline-route strategy pending eligibility)",
+    "Some U.S. employers under-recognize foreign degrees despite WES evaluation",
+    "English interview anxiety / ESL nervousness under pressure (accommodations + rehearsed answers help)",
+    "Career gap between 2018 Brazil roles and 2023 U.S. phlebotomy role",
+    "Current U.S. title (phlebotomist) understates his director-level background — position carefully and truthfully"
+  ],
+  "transferable_skills": [
+    "Specimen collection, processing, accessioning, and integrity control",
+    "Laboratory operations management and workflow optimization",
+    "Quality control, SOP authorship/audit, and compliance documentation",
+    "Protocol execution and data recording (research-adjacent)",
+    "Staff training, onboarding, and supervision",
+    "Patient communication, consent, and clinical intake",
+    "Cytology/histology specimen preparation and screening knowledge",
+    "Bilingual patient navigation and clinical liaison",
+    "Regulatory awareness (HIPAA, OSHA, infection control; GLP/GCP concepts)"
+  ],
+  "target_roles_ranked": [
+    "Clinical Research Coordinator I / Clinical Research Assistant",
+    "Lab Supervisor / Lab Manager / Laboratory Operations Coordinator",
+    "Pathology Lab Assistant / Histology Assistant / Cytology Lab Assistant",
+    "Specimen Processing Supervisor / Accessioning Supervisor",
+    "Lead Phlebotomist / Mobile Phlebotomy Supervisor / Donor Center Supervisor",
+    "Medical Courier / Specimen Carrier (fast income lane)",
+    "Biomedical Research Assistant / Research Lab Coordinator",
+    "Clinical Trial Assistant / Remote Clinical Trial Support",
+    "Medical Laboratory Technician trainee / equivalent pathway",
+    "QA / QC roles in lab, biotech, pharma, diagnostics, clinical research",
+    "Bilingual Patient Services / Clinical Liaison (only if pay + advancement are strong)",
+    "Adjunct / phlebotomy instructor / biomedical science / Portuguese medical tutor",
+    "Portuguese medical interpreter / language support",
+    "Remote medical data abstraction / clinical data coordinator / lab data coordinator"
+  ],
+  "highest_probability_categories": [
+    "Lead Phlebotomist / Phlebotomy Supervisor",
+    "Medical Courier / Specimen Carrier",
+    "Specimen Processing Supervisor / Accessioning Supervisor",
+    "Lab Operations Coordinator",
+    "Pathology / Cytology Lab Assistant",
+    "Clinical Research Assistant / Clinical Research Coordinator I",
+    "Research Lab Coordinator",
+    "Bilingual clinical research support",
+    "Biomedical tutor / Phlebotomy instructor / Portuguese medical interpreter",
+    "Lab quality / documentation coordinator",
+    "Clinical data coordinator (lab terminology advantage)"
+  ],
+  "lower_probability_categories": [
+    "Senior/research scientist (e.g., NIST Research Biologist) — apply only with veterans' preference and honest positioning; do not overstate lab-data/flow-cytometry duties",
+    "MLS/MT roles requiring U.S. certification",
+    "Cytotechnologist roles requiring U.S. licensure/certification",
+    "CRA roles requiring prior monitoring experience",
+    "Lab director roles requiring U.S. licensure"
+  ],
+  "hard_constraints": {
+    "do_not_require_without_pathway": [
+      "ASCP MLS/MT certification",
+      "AAB MT certification",
+      "Florida clinical laboratory technologist/scientist license",
+      "CT(ASCP) cytotechnologist certification",
+      "RN / MD / PA / PharmD or any professional clinical license"
+    ],
+    "auto_reject_if_hard_required": true,
+    "acceptable_if_posting_allows": [
+      "Certification pending / within X months of hire",
+      "Trainee or apprenticeship pathway",
+      "Foreign credential equivalency accepted",
+      "Related experience accepted in lieu of certification"
+    ],
+    "avoid": [
+      "Heavy sales / commission-only roles marketed as clinical",
+      "MLM / recruiting-funnel roles disguised as research/clinical",
+      "Roles below current pay unless strategically justified",
+      "Daily commute beyond 60 minutes one-way (unless remote/hybrid)"
+    ]
+  },
+  "integrity_guardrails": {
+    "purpose": "CRITICAL. Six uploaded documents tell materially DIFFERENT stories about Fernando's education, current job, and certification path. Building applications on the inflated/contradictory versions risks credential fraud, federal false-statement exposure (USAJOBS/NIST), academic-integrity failure (Moffitt PhD), and trivial fact-check failure. Everything must be reconciled to PRIMARY SOURCES (WES report, diplomas, TGH HR record, AAB/AMT records) before submission.",
+    "do_not_claim": [
+      "Any inflated TGH title ('Lead Biospecimen Data Specialist,' 'Research Laboratory Manager,' 'Translational cancer researcher') — his supervisor's own letter calls him 'Phlebotomist and Laboratory Support Specialist.'",
+      "'Computational biologist / biomedical data scientist,' machine-learning, or data-pipeline expertise.",
+      "Daily operation of flow cytometry / cryopreservation engineering / ownership of LIS (Meditech/SoftLab/LabWare/REDCap/Medidata Rave) — NOT supported by the supervisor letter, which describes specimen collection + basic sample-tracking tools.",
+      "'Clinical Research Data Consultant (Independent)' role — not verified; omit unless real with references.",
+      "'ASCP Board of Certification candidate' / 'ASCP MLS/MT Examination Candidate' — inconsistent with AAB and AMT claims elsewhere; he is not ASCP-certified.",
+      "Fabricated precision metrics ('12+ SOPs authored at TGH,' '30% error reduction,' '100% QC pass rate,' '100+ specimens/week owned,' 'zero deficiencies') — these describe director-level work and are not attributable to his phlebotomy role.",
+      "'Two Master's degrees' or a full 'M.S. Oncology Cytology' UNTIL the WES report confirms it (other documents call cytology a specialization/graduate certificate)."
+    ],
+    "document_conflicts_RESOLVED_by_user_2026-07-05": {
+      "current_employment": "RESOLVED: Phlebotomist, Tampa General Hospital - Spring Hill, March 2023 - present (current). Use this title/dates; ignore the supervisor letter's 'March 2022 - January 2024' and any inflated titles.",
+      "number_of_masters": "RESOLVED: ONE Master's (M.Sc. Biopathology) + ONE Bachelor's (B.Sc. Biomedicine), plus the Oncology Cytology postgraduate SPECIALIZATION (not a second degree). Do NOT claim two Master's.",
+      "certification_path": "RESOLVED: AAB, taken ONE discipline at a time (discipline-by-discipline route). Do NOT list ASCP or AMT.",
+      "education": "RESOLVED / VERIFIED by user (2026-07-05): degrees verified against WES — M.Sc. Biopathology (2014) + B.Sc. Biomedicine (2005) at University of Uberaba, plus the Oncology Cytology specialization (University of Franca, 2006). One Master's + one Bachelor's + specialization; institutions and years as stated on the resumes are correct."
+    },
+    "still_verify_before_sending": {
+      "cert_currency": "Confirm BLS / HIPAA / OSHA training dates are current before listing them."
+    },
+    "safe_to_use_because_consistent_across_sources": [
+      "Name: Fernando Fachinelli Rodrigues, M.Sc.; contact (Weeki Wachee/Spring Hill FL, 352-701-5535, bio.fcjp.edu@gmail.com, linkedin.com/in/fernando-rodrigues-biomed).",
+      "WES evaluation completed (Ref 5229645/dh) — U.S. equivalency validated for his degrees.",
+      "Graduate-level biomedical education focused on oncology cytology / biopathology; real research in cancer pathology.",
+      "AAB Associate Member No. 20237453 (membership only, since 2025).",
+      "~11-12 years as a Brazilian Laboratory Director and university Professor (2006/2007-2018); supervised 60+ theses.",
+      "Real peer-reviewed publication: Rodrigues, F.F. et al., 'Use of Chlorhexidine and Ozone in the Reduction of Oral Microbiota,' Psicologia e Saude em Debate 4(Supl1):103, 2018 (IRB CEP/FPM 2.662.642).",
+      "TGH clinical laboratory / phlebotomy + specimen-collection role for oncology patients (title/dates to confirm).",
+      "Trilingual: Portuguese native, English professional (supervisor-verified), Spanish conversational.",
+      "Military-spouse veterans' preference (DD-214 available); WES done; likely BLS/HIPAA/OSHA (confirm current)."
+    ]
+  },
+  "ats_keyword_bank": {
+    "core_lab": [
+      "phlebotomy", "venipuncture", "specimen collection", "specimen processing",
+      "accessioning", "specimen integrity", "chain of custody", "labeling accuracy",
+      "laboratory operations", "clinical laboratory", "sample handling", "centrifugation",
+      "aliquoting", "biohazard handling", "cold chain", "specimen transport", "courier"
+    ],
+    "quality_compliance": [
+      "quality control", "QC", "QA", "SOP", "standard operating procedures",
+      "CLIA", "CAP", "GLP", "GMP", "HIPAA", "OSHA", "infection control",
+      "compliance", "audit", "documentation", "corrective action", "CAPA"
+    ],
+    "research": [
+      "clinical research", "clinical trial", "protocol", "GCP", "ICH-GCP",
+      "informed consent", "IRB", "case report form", "CRF", "source documentation",
+      "data entry", "data abstraction", "EDC", "regulatory binder", "study coordinator",
+      "subject recruitment", "adverse event", "eligibility screening", "biospecimen"
+    ],
+    "pathology_cytology": [
+      "cytology", "cytopathology", "histology", "histopathology", "pathology",
+      "grossing support", "slide preparation", "staining", "Pap smear", "screening",
+      "tissue handling", "microscopy", "oncology"
+    ],
+    "leadership_training": [
+      "lead", "supervisor", "coordinator", "team lead", "training", "onboarding",
+      "staff supervision", "curriculum", "instructor", "tutor", "scheduling",
+      "workflow management", "process improvement", "mentoring", "laboratory director"
+    ],
+    "soft_bilingual": [
+      "bilingual", "Portuguese", "Spanish", "interpreter", "patient care",
+      "patient communication", "customer service", "multicultural", "interpretation",
+      "patient navigation"
+    ]
+  },
+  "role_positioning_strategy": {
+    "clinical_research": "Lead with lab-director SOP/QA rigor + real IRB research + specimen handling + documentation discipline + bilingual patient interaction. Frame phlebotomy as direct study-visit and specimen-collection experience. Add CITI/GCP to strengthen instantly. Do not wait for AAB to apply — this path does not need state technologist licensure.",
+    "lab_operations": "Lead with 11 years directing a multi-department diagnostic lab + current U.S. hospital lead role. Emphasize staffing, QC, SOP authorship, compliance, workflow, and training. Strongest overlap with U.S. titles.",
+    "pathology_cytology_assistant": "Lead with cytology specialization + biopathology master's + histology thesis + specimen handling. Academically over-qualified for assistant roles = high interview probability and fast onboarding.",
+    "specimen_processing": "Lead with accessioning/specimen-integrity language and current hospital throughput. Supervisor angle uses his director history.",
+    "phlebotomy_lead": "Direct match. Lead with current title, hospital setting, training, and bilingual patient care. Highest probability of interview and offer.",
+    "medical_courier": "Fast income lane. Lead with hospital familiarity, specimen handling, HIPAA/OSHA, cold-chain and chain-of-custody discipline. Only accept routes netting >= $22/hr after gas/vehicle costs.",
+    "qa_qc": "Lead with lab QC/compliance, SOP authorship, documentation, and audit-readiness from director years.",
+    "teaching_training": "Lead with 11-yr professor + program-lead role + current staff training. Ideal for biomedical tutoring, phlebotomy instructor, or Portuguese medical/science tutoring. Lead with biomedical science, not just phlebotomy.",
+    "interpreting": "Portuguese medical interpreting leverages native fluency + biomedical vocabulary; low certification barrier (40-hr course).",
+    "data_coordinator": "Lead with documentation discipline, lab terminology fluency, and detail orientation; remote-friendly and low certification barrier.",
+    "federal_usajobs": "For NIST/VA/federal lab-adjacent roles, apply through USAJOBS WITH spouse veterans' preference. Position honestly on real strengths (WES M.Sc., cytology, 11-yr lab director, real research, phlebotomy). Do NOT overstate TGH duties or claim ASCP candidacy."
+  },
+  "esl_support": {
+    "interview_anxiety": true,
+    "strategies": [
+      "Use short, rehearsed answer versions for high-pressure questions",
+      "Prepare Portuguese anchor notes for complex answers, then deliver concise English",
+      "Lean on STAR examples so answers have structure and reduce improvisation",
+      "Practice the 'Tell me about yourself' script until automatic",
+      "Frame accent/ESL as an asset for bilingual patient populations",
+      "English proficiency is supervisor-verified over 2+ years — state that plainly if asked",
+      "Two-pass method + 'English trap' word awareness (except, not, most likely, best) — from the AAB anxiety plan"
+    ]
+  }
+}
