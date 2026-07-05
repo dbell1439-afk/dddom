@@ -35,11 +35,32 @@ cd fernando-job-automation
 python3 -m pip install -r requirements.txt      # installs openpyxl (for the Excel file)
 ```
 
-Then open `resumes/master_resume.md` and fill in the `[phone]`, `[email]`, and
-`[LinkedIn]` placeholders once. (Do the same in the other resume files, or copy the
-contact line over.)
+Then fill in your contact details **once** in `data/contact_info.json` (phone, email,
+LinkedIn) and run:
+
+```bash
+python3 scripts/jobbot.py contact
+```
+
+That stamps them into every resume and the cover-letter template automatically — no need
+to edit each file by hand. Re-run it any time you change `contact_info.json`.
 
 That's it.
+
+### Honest positioning & the `[CONFIRM]` items (read once)
+Every resume is built on facts supported by Fernando's own documents. A few details differed
+across his old drafts, so the resumes carry `[CONFIRM]` markers you should verify **before sending**:
+
+1. **TGH title & dates** — resumes say "2023–Present," but his supervisor's reference letter says
+   "Phlebotomist and Laboratory Support Specialist, March 2022 – January 2024." Confirm with TGH HR.
+2. **Degrees** — resumes list one M.Sc. (Biopathology) + an oncology-cytology specialization. Only
+   claim a second Master's if the **WES report** recognizes it.
+3. **Certification** — the plan of record is the **AAB discipline-by-discipline** route. Do **not**
+   list "ASCP candidate" — Fernando is not ASCP-certified.
+
+The full list of what to verify (and what never to claim) lives in
+`data/candidate_profile.json` → `integrity_guardrails`. The golden rule: **honest positioning only —
+never invent a title, degree, license, certification, or metric.**
 
 ---
 
@@ -115,6 +136,7 @@ memo, use `prompts/weekly_report_prompt.md`.
 | `python3 scripts/jobbot.py card "Title" "Company"` | Print the detailed output card for one job. |
 | `python3 scripts/jobbot.py applied "Title" "Company" [resume] [cover]` | Mark applied; auto-sets a 3-day follow-up. |
 | `python3 scripts/jobbot.py report` | Generate the weekly strategy report. |
+| `python3 scripts/jobbot.py contact` | Stamp `data/contact_info.json` into every resume + cover template. |
 | `python3 scripts/jobbot.py xlsx` | Rebuild the Excel tracker with dropdowns + dashboard. |
 
 ---
@@ -159,6 +181,7 @@ fernando-job-automation/
 ├── requirements.txt
 ├── data/
 │   ├── candidate_profile.json        ← the source of truth (edit if facts change)
+│   ├── contact_info.json             ← fill once; `jobbot.py contact` stamps resumes
 │   ├── scam_filters.json             ← scam/spam rules + weights
 │   ├── target_companies.json         ← priority employers + their ATS/careers domains
 │   ├── job_sources.json              ← intake formats + normalized job schema

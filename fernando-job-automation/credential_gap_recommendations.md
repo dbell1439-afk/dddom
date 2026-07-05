@@ -31,3 +31,49 @@ access to $60k–$90k target roles relative to cost/time.
 4. **After landing a first CRC role:** pursue SoCRA/ACRP for advancement.
 5. **Long term / optional:** investigate ASCP foreign-graduate eligibility — but do NOT let it
    block the near-term job search.
+
+---
+
+## AAB exam strategy — stop retaking the full generalist
+
+Fernando is an **AAB Associate Member (No. 20237453)** and has attempted the **AAB MT generalist
+exam twice without passing**. Do not repeat the same approach.
+
+- **AAB rule:** a generalist candidate must pass Basic Knowledge **plus** Chemistry, Hematology,
+  Immunology, Immunohematology, and Microbiology — and **failing any one subject means retaking the
+  entire generalist exam.** The **discipline route** requires Basic Knowledge + at least one
+  discipline, and **only failed exams are retaken.**
+- **Action:** before registering again, contact **AAB and the Florida Board of Clinical Laboratory
+  Personnel** to confirm whether Fernando can sit **by discipline** and obtain Florida specialty
+  licensure one bench at a time. If yes, that is far smarter than another full generalist attempt.
+- **Suggested order (confirm with practice scores):** Basic Knowledge → Immunology/Serology (likely
+  strongest) → Hematology or Clinical Chemistry → Microbiology → Immunohematology/Blood Bank last.
+- **ESL/anxiety supports:** bilingual glossary for every missed question; study in English, reason in
+  Portuguese, answer in English; timed 10→20→40 question blocks; two-pass method; watch "English
+  trap" words (except, not, best, confirmatory). Ask AAB about testing accommodations.
+
+> **Certification-path caution:** Fernando's documents variously name **AAB**, **AMT**, and **ASCP**.
+> Pick ONE real, confirmed pathway before putting any of them on a resume. "ASCP Board of
+> Certification candidate" should not appear on materials unless/until it is real and documented.
+
+## Funding: military-spouse benefits (underused advantage)
+
+Fernando is a **military spouse (veterans'-preference eligible, DD-214 available)**. Use this:
+
+- **MyCAA** — up to **$4,000** toward portable licenses/certs for eligible military spouses. Ideal to
+  fund CITI/GCP, national phlebotomy certification, or the 40-hour medical interpreter course
+  (verify eligibility by pay grade/orders first).
+- **Hiring Our Heroes** — fellowships + hiring events (clinical research, healthcare admin, remote).
+- **SBA / VBOC** — free counseling to set up a tutoring or mobile-phlebotomy side business.
+- **USAJOBS** — apply with spouse veterans' preference for NIST/VA/federal lab-adjacent roles.
+
+## Fast-income side lanes (independent of the AAB exam)
+
+Stack **one paid route + one high-margin knowledge lane** (two strong lanes beat five exhausting ones):
+
+| Lane | Realistic rate | Key credentials to add |
+|---|---|---|
+| Medical courier / specimen carrier | $22+/hr net; best $25–$35/hr | Clean MVR, HIPAA, OSHA Bloodborne Pathogens, DOT/IATA UN3373 awareness, cold-chain/temp-log |
+| Mobile / private phlebotomy | Company $20–$28/hr; private $45–$100/visit | National phlebotomy cert, BLS, HIPAA, TB/immunization; mobile-examiner companies first |
+| Biomedical / healthcare tutoring | $45–$100/hr | Professor background (real), Wyzant/Preply profiles; lead with biomedical science, not just phlebotomy |
+| Portuguese medical interpreting | $25–$80/hr | Portuguese-English fluency, HIPAA, 40-hr interpreter course; CCHI/NBCMI later |

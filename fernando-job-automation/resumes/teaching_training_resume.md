@@ -1,7 +1,10 @@
-# Fernando Rodrigues
+# Fernando Fachinelli Rodrigues, M.Sc.
 **Phlebotomy / Biomedical Science Instructor · Adjunct · Portuguese-Speaking Medical Tutor**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
+
+
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
 
 > Tailored for **adjunct instructor, phlebotomy instructor, biomedical science tutor,
 > or online Portuguese-speaking medical/science tutor** roles. Lead with the professor/
@@ -28,7 +31,7 @@ Bilingual/Portuguese instruction · Program coordination · Online tutoring apti
 
 ## Professional Experience
 
-### Lead Phlebotomist (Staff Trainer) — Tampa General Hospital, Spring Hill, FL · Mar 2023 – Present
+### Lead Phlebotomist (Staff Trainer) — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
 - Train and coach phlebotomists and new hires on technique, safety, and patient care.
 - Standardize procedures and assess competency on the floor.
 
@@ -49,7 +52,7 @@ Bilingual/Portuguese instruction · Program coordination · Online tutoring apti
 - *(Add: phlebotomy-instructor credential if pursued)*
 
 ## Languages
-Portuguese (native) · English (fluent) · Spanish (conversational)
+Portuguese (native) · English (professional) · Spanish (conversational)
 
 > **Honest note:** Excellent fit for instructor/tutor roles that value teaching experience
 > and subject expertise. Portuguese tutoring leverages native fluency with zero credential gap.

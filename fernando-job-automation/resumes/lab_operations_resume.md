@@ -1,7 +1,10 @@
-# Fernando Rodrigues
+# Fernando Fachinelli Rodrigues, M.Sc.
 **Laboratory Operations / Specimen Processing / Lab Supervisor Candidate**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
+
+
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
 
 > Tailored for **Lab Supervisor / Lab Manager / Laboratory Operations Coordinator /
 > Specimen Processing Supervisor / Accessioning Supervisor / Pathology-Cytology Lab
@@ -29,7 +32,7 @@ infection control · Cytology & pathology specimen knowledge · Equipment & inve
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · Mar 2023 – Present
+### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
 - Lead specimen collection and processing workflow; safeguard specimen integrity, labeling accuracy, and chain of custody.
 - Train and supervise phlebotomy staff; standardize technique and safety practices.
 - Uphold QC, HIPAA, OSHA, and infection-control compliance at high patient volume.
@@ -52,7 +55,7 @@ infection control · Cytology & pathology specimen knowledge · Equipment & inve
 - BLS/CPR (current) · WES evaluation completed
 
 ## Languages
-Portuguese (native) · English (fluent) · Spanish (conversational)
+Portuguese (native) · English (professional) · Spanish (conversational)
 
 > **Honest note:** No current U.S. MLS/MT/ASCP certification or Florida lab license.
 > Best fit: operations, specimen-processing, accessioning, and supervisory roles that

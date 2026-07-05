@@ -1,7 +1,10 @@
-# Fernando Rodrigues
+# Fernando Fachinelli Rodrigues, M.Sc.
 **Lead Phlebotomist / Phlebotomy Supervisor / Donor Center Supervisor Candidate**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
+
+
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
 
 > Tailored for **Lead Phlebotomist / Mobile Phlebotomy Supervisor / Donor Center
 > Supervisor / Specimen Collection Lead** roles. Highest probability of interview and
@@ -13,7 +16,7 @@ Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to
 Hospital **Lead Phlebotomist** with a biomedical Master's and 11 years of prior laboratory
 leadership. Excellent venipuncture and difficult-draw skill, specimen integrity discipline,
 and a track record of training and leading phlebotomy staff. **Trilingual (Portuguese native,
-English fluent, Spanish conversational)** — reduces patient anxiety and improves collection
+English professional, Spanish conversational)** — reduces patient anxiety and improves collection
 success across diverse populations. Ready to step into a supervisory or lead-plus role.
 
 ---
@@ -28,7 +31,7 @@ Mobile & high-volume collection
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · Mar 2023 – Present
+### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
 - Lead daily phlebotomy operations; ensure accurate collection, labeling, and specimen integrity.
 - Train and mentor phlebotomists and new hires on technique, safety, and patient care.
 - Serve diverse and bilingual patients; calm anxious patients to improve first-stick success.
@@ -50,7 +53,7 @@ Mobile & high-volume collection
 - *(Add: national phlebotomy certification if/when obtained)*
 
 ## Languages
-Portuguese (native) · English (fluent) · Spanish (conversational)
+Portuguese (native) · English (professional) · Spanish (conversational)
 
 > **Honest note:** Strongest, fastest path. Emphasize leadership + bilingual patient care.
 > For donor-center roles (e.g., OneBlood), highlight high-volume collection and screening.
