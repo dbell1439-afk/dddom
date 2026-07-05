@@ -280,13 +280,11 @@
     "document_conflicts_RESOLVED_by_user_2026-07-05": {
       "current_employment": "RESOLVED: Phlebotomist, Tampa General Hospital - Spring Hill, March 2023 - present (current). Use this title/dates; ignore the supervisor letter's 'March 2022 - January 2024' and any inflated titles.",
       "number_of_masters": "RESOLVED: ONE Master's (M.Sc. Biopathology) + ONE Bachelor's (B.Sc. Biomedicine), plus the Oncology Cytology postgraduate SPECIALIZATION (not a second degree). Do NOT claim two Master's.",
-      "certification_path": "RESOLVED: AAB, taken ONE discipline at a time (discipline-by-discipline route). Do NOT list ASCP or AMT."
+      "certification_path": "RESOLVED: AAB, taken ONE discipline at a time (discipline-by-discipline route). Do NOT list ASCP or AMT.",
+      "education": "RESOLVED / VERIFIED by user (2026-07-05): degrees verified against WES — M.Sc. Biopathology (2014) + B.Sc. Biomedicine (2005) at University of Uberaba, plus the Oncology Cytology specialization (University of Franca, 2006). One Master's + one Bachelor's + specialization; institutions and years as stated on the resumes are correct."
     },
     "still_verify_before_sending": {
-      "education_institutions": "Confirm exact degree-granting institutions from diplomas/WES (docs vary: Uberaba/Franca vs UFTM/UNIPAM). Resumes currently use University of Uberaba + University of Franca.",
-      "msc_thesis": "Confirm the real M.Sc. thesis (advisor Dr. Tony de Paiva Paulino appears in both variants).",
-      "bsc_year": "2005 vs 2006 across docs — confirm from diploma/WES (resumes use 2005).",
-      "cert_currency": "Confirm BLS/HIPAA/OSHA dates are current."
+      "cert_currency": "Confirm BLS / HIPAA / OSHA training dates are current before listing them."
     },
     "safe_to_use_because_consistent_across_sources": [
       "Name: Fernando Fachinelli Rodrigues, M.Sc.; contact (Weeki Wachee/Spring Hill FL, 352-701-5535, bio.fcjp.edu@gmail.com, linkedin.com/in/fernando-rodrigues-biomed).",

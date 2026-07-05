@@ -57,8 +57,9 @@ items are now **confirmed** and baked in:
 3. **Certification:** **AAB, one discipline at a time** (discipline-by-discipline route). Never list
    "ASCP candidate" — Fernando is not ASCP-certified.
 
-A few minor items are still worth verifying against the WES report before sending (exact
-degree-granting institutions, B.Sc. year, and that BLS/HIPAA/OSHA dates are current) — see
+Degrees are now **verified against the WES report** (M.Sc. Biopathology 2014 + B.Sc. Biomedicine 2005,
+University of Uberaba; Oncology Cytology specialization, University of Franca 2006). The only thing
+left to keep current is BLS/HIPAA/OSHA training dates — see
 `data/candidate_profile.json` → `still_verify_before_sending`. The golden rule: **honest positioning
 only — never invent a title, degree, license, certification, or metric.**
 
