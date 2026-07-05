@@ -14,6 +14,7 @@ Commands
   python3 jobbot.py queue               Show the current prioritized application queue
   python3 jobbot.py applied "Title" "Company"   Mark a job as applied (sets follow-up)
   python3 jobbot.py report              Generate the weekly strategy report
+  python3 jobbot.py contact             Stamp data/contact_info.json into all resumes
   python3 jobbot.py xlsx                Rebuild data/application_tracker.xlsx
   python3 jobbot.py card "Title" "Company"      Print the single-job output card
 
@@ -36,15 +37,55 @@ import tracker
 # ---------------------------------------------------------------------------
 # Pipeline
 # ---------------------------------------------------------------------------
+import re as _re
+from difflib import SequenceMatcher
+
+
+def _norm_title(title: str) -> str:
+    """Normalize a title for fuzzy comparison: lowercase, drop seniority level
+    markers (I/II/III, 1/2/3, sr/jr), punctuation, and collapse whitespace."""
+    t = (title or "").lower()
+    t = _re.sub(r"\b(i{1,3}|iv|v|1|2|3|sr|jr|senior|junior|lead|level\s*\d)\b", " ", t)
+    t = _re.sub(r"[^a-z0-9 ]+", " ", t)
+    return _re.sub(r"\s+", " ", t).strip()
+
+
+def _norm_url(url: str) -> str:
+    """Strip tracking params/fragments so the same posting shared via different
+    links collapses to one entry."""
+    u = (url or "").strip().lower()
+    u = _re.sub(r"[#?].*$", "", u)          # drop query + fragment
+    return u.rstrip("/")
+
+
 def _dedupe(jobs: list[dict]) -> list[dict]:
-    seen: dict[str, dict] = {}
+    """De-duplicate by canonical URL first, then by fuzzy title+company.
+
+    This catches the same job reposted across boards (different URLs, near-
+    identical titles) and altered-company-name repostings of the same role.
+    Keeps the first occurrence (earlier = usually the direct-employer source).
+    """
+    kept: list[dict] = []
+    seen_urls: set[str] = set()
     for j in jobs:
-        key = (j.get("job_title", "").strip().lower(), j.get("company", "").strip().lower())
-        url = (j.get("application_url") or "").strip().lower()
-        dedupe_key = url if url else f"{key[0]}|{key[1]}"
-        if dedupe_key not in seen:
-            seen[dedupe_key] = j
-    return list(seen.values())
+        url = _norm_url(j.get("application_url", ""))
+        if url and url in seen_urls:
+            continue
+        nt = _norm_title(j.get("job_title", ""))
+        comp = (j.get("company", "") or "").strip().lower()
+        is_dupe = False
+        for k in kept:
+            same_company = SequenceMatcher(None, comp, (k.get("company", "") or "").lower()).ratio() > 0.9
+            same_title = SequenceMatcher(None, nt, _norm_title(k.get("job_title", ""))).ratio() > 0.9
+            if same_company and same_title:
+                is_dupe = True
+                break
+        if is_dupe:
+            continue
+        if url:
+            seen_urls.add(url)
+        kept.append(j)
+    return kept
 
 
 def _evaluate(job: dict) -> dict:
@@ -236,9 +277,19 @@ def cmd_report(_args: list[str]) -> None:
 def cmd_xlsx(_args: list[str]) -> None:
     try:
         import make_xlsx
-        make_xlsx.build()
     except ImportError:
-        print("openpyxl not installed. Run: pip install openpyxl")
+        from common import TRACKER_CSV
+        print("The Excel view needs the 'openpyxl' package, which isn't installed.\n"
+              "  - To enable it:  pip install openpyxl   (then re-run this)\n"
+              f"  - Meanwhile, the tracker still works fully as a spreadsheet:\n"
+              f"    open {TRACKER_CSV} in Excel, Google Sheets, or Numbers.")
+        return
+    make_xlsx.build()
+
+
+def cmd_contact(_args: list[str]) -> None:
+    import fill_contact
+    fill_contact.fill()
 
 
 COMMANDS = {
@@ -249,6 +300,7 @@ COMMANDS = {
     "applied": cmd_applied,
     "report": cmd_report,
     "xlsx": cmd_xlsx,
+    "contact": cmd_contact,
     "card": cmd_card,
 }
 

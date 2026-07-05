@@ -1,0 +1,8 @@
+{
+  "_instructions": "Fill these in ONCE. Then run:  python3 scripts/jobbot.py contact  — it stamps every resume and the cover-letter template with these values, replacing the [phone]/[email]/[LinkedIn] placeholders. Re-run any time you change something here.",
+  "full_name": "Fernando Rodrigues",
+  "phone": "[phone]",
+  "email": "[email]",
+  "linkedin": "[LinkedIn]",
+  "city_state": "Spring Hill, FL"
+}

@@ -35,9 +35,15 @@ cd fernando-job-automation
 python3 -m pip install -r requirements.txt      # installs openpyxl (for the Excel file)
 ```
 
-Then open `resumes/master_resume.md` and fill in the `[phone]`, `[email]`, and
-`[LinkedIn]` placeholders once. (Do the same in the other resume files, or copy the
-contact line over.)
+Then fill in your contact details **once** in `data/contact_info.json` (phone, email,
+LinkedIn) and run:
+
+```bash
+python3 scripts/jobbot.py contact
+```
+
+That stamps them into every resume and the cover-letter template automatically — no need
+to edit each file by hand. Re-run it any time you change `contact_info.json`.
 
 That's it.
 
@@ -115,6 +121,7 @@ memo, use `prompts/weekly_report_prompt.md`.
 | `python3 scripts/jobbot.py card "Title" "Company"` | Print the detailed output card for one job. |
 | `python3 scripts/jobbot.py applied "Title" "Company" [resume] [cover]` | Mark applied; auto-sets a 3-day follow-up. |
 | `python3 scripts/jobbot.py report` | Generate the weekly strategy report. |
+| `python3 scripts/jobbot.py contact` | Stamp `data/contact_info.json` into every resume + cover template. |
 | `python3 scripts/jobbot.py xlsx` | Rebuild the Excel tracker with dropdowns + dashboard. |
 
 ---
@@ -159,6 +166,7 @@ fernando-job-automation/
 ├── requirements.txt
 ├── data/
 │   ├── candidate_profile.json        ← the source of truth (edit if facts change)
+│   ├── contact_info.json             ← fill once; `jobbot.py contact` stamps resumes
 │   ├── scam_filters.json             ← scam/spam rules + weights
 │   ├── target_companies.json         ← priority employers + their ATS/careers domains
 │   ├── job_sources.json              ← intake formats + normalized job schema
