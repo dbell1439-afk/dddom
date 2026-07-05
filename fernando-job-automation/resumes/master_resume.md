@@ -1,7 +1,7 @@
 # Fernando Rodrigues
 **Bilingual Biomedical Professional | Lead Phlebotomist | International Laboratory & Cytology Leadership**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 > **How to use this file:** This is the honest master resume — the source of truth
 > for every tailored version. Fill in the `[bracketed]` contact fields once.

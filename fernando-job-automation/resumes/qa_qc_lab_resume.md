@@ -1,7 +1,7 @@
 # Fernando Rodrigues
 **Laboratory Quality Assurance / Quality Control / Compliance Coordinator Candidate**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 > Tailored for **QA/QC roles in lab, biotech, pharma, diagnostics, or clinical research**,
 > and **lab quality / documentation coordinator** roles. Lead with SOP governance, audit

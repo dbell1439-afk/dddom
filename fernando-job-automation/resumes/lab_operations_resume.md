@@ -1,7 +1,7 @@
 # Fernando Rodrigues
 **Laboratory Operations / Specimen Processing / Lab Supervisor Candidate**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 > Tailored for **Lab Supervisor / Lab Manager / Laboratory Operations Coordinator /
 > Specimen Processing Supervisor / Accessioning Supervisor / Pathology-Cytology Lab

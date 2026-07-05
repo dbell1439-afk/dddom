@@ -1,8 +1,8 @@
 {
-  "_instructions": "Fill these in ONCE. Then run:  python3 scripts/jobbot.py contact  — it stamps every resume and the cover-letter template with these values, replacing the [phone]/[email]/[LinkedIn] placeholders. Re-run any time you change something here.",
-  "full_name": "Fernando Rodrigues",
-  "phone": "[phone]",
-  "email": "[email]",
-  "linkedin": "[LinkedIn]",
-  "city_state": "Spring Hill, FL"
+  "_instructions": "Filled from Fernando's own documents (consistent across all of them). Run:  python3 scripts/jobbot.py contact  to stamp these into every resume + the cover-letter template. Re-run any time you change something here.",
+  "full_name": "Fernando Fachinelli Rodrigues",
+  "phone": "352-701-5535",
+  "email": "bio.fcjp.edu@gmail.com",
+  "linkedin": "linkedin.com/in/fernando-rodrigues-biomed",
+  "city_state": "Spring Hill / Weeki Wachee, FL (Tampa Bay)"
 }

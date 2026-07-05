@@ -1,7 +1,7 @@
 # Fernando Rodrigues
 **Clinical Research Coordinator / Assistant Candidate · Bilingual Biomedical Professional**
 
-Spring Hill / Tampa Bay, FL · [phone] · [email] · [LinkedIn] · Authorized to work in the U.S.
+Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 > Tailored for **Clinical Research Coordinator I / Clinical Research Assistant /
 > Clinical Trial Assistant / Research Lab Coordinator** roles. Emphasizes protocol

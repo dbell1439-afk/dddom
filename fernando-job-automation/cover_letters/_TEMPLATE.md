@@ -27,4 +27,4 @@ consideration; I look forward to speaking with you.
 
 Sincerely,
 Fernando Rodrigues
-[phone] · [email]
+352-701-5535 · bio.fcjp.edu@gmail.com
