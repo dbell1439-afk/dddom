@@ -9,11 +9,11 @@
   "identity": {
     "full_name": "Fernando Fachinelli Rodrigues",
     "credential_suffix": "M.Sc.",
-    "headline": "Bilingual Biomedical Scientist (M.Sc.) | Lead Phlebotomist | 11-yr Laboratory Director & Professor | Cytology/Pathology",
-    "current_title": "Phlebotomist / Laboratory Support Specialist (task brief says 'Lead Phlebotomist')",
+    "headline": "Bilingual Biomedical Scientist (M.Sc.) | Phlebotomist | 11-yr Laboratory Director & Professor | Cytology/Pathology",
+    "current_title": "Phlebotomist",
     "current_employer": "Tampa General Hospital - Spring Hill (Clinical Laboratory & Pathology Division)",
-    "current_start_date": "CONFLICT: task brief says 2023-03 and current; supervisor recommendation letter (L. Copp, Oct 2025) says March 2022 - January 2024 (past). VERIFY employment status + exact dates + title from TGH records before submitting.",
-    "current_is_present": "UNCONFIRMED — reconcile before any resume states 'Present'",
+    "current_start_date": "2023-03",
+    "current_is_present": true,
     "current_pay_hourly_usd": 22,
     "current_annual_equivalent_usd": 45760,
     "work_authorization": "U.S. Lawful Permanent Resident (U.S. citizenship pending)",
@@ -183,7 +183,7 @@
     "11 years directing a multi-department diagnostic lab (hematology, cytology, chemistry, histopathology)",
     "11 years as a professor; led a biomedicine program; supervised 60+ graduate theses",
     "Real peer-reviewed research (histology/microscopy, antimicrobial microbiology)",
-    "Current U.S. hospital phlebotomy leadership with specimen-integrity and compliance rigor",
+    "Current U.S. hospital phlebotomy / specimen-collection experience with integrity and compliance rigor",
     "Cytology / oncology cytopathology specialization",
     "Trilingual: Portuguese (native), English (professional working), Spanish (intermediate)",
     "Teaching, training, and curriculum development",
@@ -277,13 +277,16 @@
       "Fabricated precision metrics ('12+ SOPs authored at TGH,' '30% error reduction,' '100% QC pass rate,' '100+ specimens/week owned,' 'zero deficiencies') — these describe director-level work and are not attributable to his phlebotomy role.",
       "'Two Master's degrees' or a full 'M.S. Oncology Cytology' UNTIL the WES report confirms it (other documents call cytology a specialization/graduate certificate)."
     ],
-    "document_conflicts_to_resolve": {
-      "current_employment": "Supervisor letter (Copp, Oct 2025): 'Phlebotomist and Laboratory Support Specialist, March 2022 - January 2024' (past tense). Resumes/NIST: '2023 - Present.' Task brief: 'Lead Phlebotomist since March 2023.' => Confirm: is he STILL at TGH? Exact title and dates?",
-      "education_institutions": "MSc Biopathology attributed to BOTH 'University of Uberaba (UNIUBE)' AND 'Federal University of Triangulo Mineiro (UFTM).' BSc/cytology attributed to Uberaba/Franca in some docs and UNIPAM in another. => Confirm exact degree-granting institutions from diplomas/WES.",
-      "number_of_masters": "Some docs: ONE MSc (Biopathology) + oncology-cytology SPECIALIZATION. fernando_1225: TWO Master's (Biopathology + Oncology Cytology). => Confirm from WES report.",
-      "msc_thesis": "Two different MSc Biopathology theses claimed: (a) photodynamic therapy on alveolar bone in Wistar rats; (b) PTEN expression in prostate cancer. => Confirm the real thesis (advisor Dr. Tony de Paiva Paulino appears in both).",
-      "certification_path": "Claimed as AAB (failed twice; Associate Member 20237453), ASCP ('candidate'), AND AMT ('eligible for AMT MT exam') across documents. => Confirm the ONE real, current pathway and eligibility (AAB discipline route is the plan of record).",
-      "bsc_year": "2005 (task brief / AI resume) vs 2006 (Moffitt resume). => Confirm from diploma/WES."
+    "document_conflicts_RESOLVED_by_user_2026-07-05": {
+      "current_employment": "RESOLVED: Phlebotomist, Tampa General Hospital - Spring Hill, March 2023 - present (current). Use this title/dates; ignore the supervisor letter's 'March 2022 - January 2024' and any inflated titles.",
+      "number_of_masters": "RESOLVED: ONE Master's (M.Sc. Biopathology) + ONE Bachelor's (B.Sc. Biomedicine), plus the Oncology Cytology postgraduate SPECIALIZATION (not a second degree). Do NOT claim two Master's.",
+      "certification_path": "RESOLVED: AAB, taken ONE discipline at a time (discipline-by-discipline route). Do NOT list ASCP or AMT."
+    },
+    "still_verify_before_sending": {
+      "education_institutions": "Confirm exact degree-granting institutions from diplomas/WES (docs vary: Uberaba/Franca vs UFTM/UNIPAM). Resumes currently use University of Uberaba + University of Franca.",
+      "msc_thesis": "Confirm the real M.Sc. thesis (advisor Dr. Tony de Paiva Paulino appears in both variants).",
+      "bsc_year": "2005 vs 2006 across docs — confirm from diploma/WES (resumes use 2005).",
+      "cert_currency": "Confirm BLS/HIPAA/OSHA dates are current."
     },
     "safe_to_use_because_consistent_across_sources": [
       "Name: Fernando Fachinelli Rodrigues, M.Sc.; contact (Weeki Wachee/Spring Hill FL, 352-701-5535, bio.fcjp.edu@gmail.com, linkedin.com/in/fernando-rodrigues-biomed).",

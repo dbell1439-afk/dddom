@@ -4,7 +4,7 @@
 Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 
-> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Positioning is honest only.
 
 > Tailored for **adjunct instructor, phlebotomy instructor, biomedical science tutor,
 > or online Portuguese-speaking medical/science tutor** roles. Lead with the professor/
@@ -31,7 +31,7 @@ Bilingual/Portuguese instruction · Program coordination · Online tutoring apti
 
 ## Professional Experience
 
-### Lead Phlebotomist (Staff Trainer) — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
+### Phlebotomist (Staff Trainer) — Tampa General Hospital, Spring Hill, FL · March 2023 – Present
 - Train and coach phlebotomists and new hires on technique, safety, and patient care.
 - Standardize procedures and assess competency on the floor.
 

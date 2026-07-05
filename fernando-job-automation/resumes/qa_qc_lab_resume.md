@@ -4,7 +4,7 @@
 Spring Hill / Tampa Bay, FL · 352-701-5535 · bio.fcjp.edu@gmail.com · linkedin.com/in/fernando-rodrigues-biomed · Authorized to work in the U.S.
 
 
-> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Confirm the `[CONFIRM]` items before sending.
+> **HONEST-CORE ONLY.** Facts of record live in `master_resume.md` / `data/candidate_profile.json`. Do NOT add unverified claims (data-scientist title, daily flow cytometry, invented metrics, ASCP candidacy). Positioning is honest only.
 
 > Tailored for **QA/QC roles in lab, biotech, pharma, diagnostics, or clinical research**,
 > and **lab quality / documentation coordinator** roles. Lead with SOP governance, audit
@@ -31,7 +31,7 @@ process improvement
 
 ## Professional Experience
 
-### Lead Phlebotomist — Tampa General Hospital, Spring Hill, FL · 2023 – Present  `[CONFIRM title/dates — supervisor letter says Phlebotomist & Lab Support Specialist, Mar 2022–Jan 2024]`
+### Phlebotomist — Tampa General Hospital, Spring Hill, FL · March 2023 – Present
 - Enforce QC and compliance in specimen collection: labeling accuracy, integrity, chain of custody.
 - Uphold HIPAA, OSHA, and infection-control standards; document adherence.
 - Train staff to standardized procedures, reinforcing quality and consistency.
